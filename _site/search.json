@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Journey",
+    "section": "",
+    "text": "Visual Studio Code for the Web\n\n\n\n\n\n\ntech\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nsande\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nഎന്റെ പ്രതീക്ഷകൾ\n\n\n\n\n\n\nThoughts\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nsande\n\n\n\n\n\n\n\n\n\n\n\n\nയാത്ര\n\n\n\n\n\n\nJourney\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nsande\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 3, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/my-thoughts/index.html",
+    "href": "posts/my-thoughts/index.html",
+    "title": "Visual Studio Code for the Web",
+    "section": "",
+    "text": "Visual Studio Code for the Web provides a free, zero-install Microsoft Visual Studio Code experience running entirely in your browser, allowing you to quickly and safely browse source code repositories and make lightweight code changes. To get started, go to https://vscode.dev in your browser.\nVS Code for the Web has many of the features of VS Code Desktop that you love, including search and syntax highlighting while browsing and editing, along with extension support to work on your codebase and make simpler edits. In addition to opening repositories, forks, and pull requests from source control providers like GitHub and Azure Repos, you can also work with code that is stored on your local machine.\nVS Code for the Web runs entirely in your web browser, so there are certain limitations compared to the desktop experience, which you can read more about below."
+  },
+  {
+    "objectID": "posts/എന്റെ പ്രതീക്ഷകൾ/index.html",
+    "href": "posts/എന്റെ പ്രതീക്ഷകൾ/index.html",
+    "title": "എന്റെ പ്രതീക്ഷകൾ",
+    "section": "",
+    "text": "എന്റെ പ്രതീക്ഷകൾ സജീവമായ, ആശാ നിറഞ്ഞ, സഫലമായ ജീവിതം അനുസരിക്കുന്നു. എന്റെ വിദ്യാഭ്യാസത്തിലൂടെ, എനിക്ക് ലോകത്ത് ശ്രദ്ധേയമായ സംഭാവനകൾ ചെയ്യാൻ സാധിക്കും എന്ന പ്രതീക്ഷയുണ്ട്. ഞാൻ ഒരു മികച്ച പ്രൊഫഷണൽ ആയി വളർന്നുകൊണ്ടിരിക്കാനും, എന്റെ കുടുംബത്തിന്, സമൂഹത്തിന് നല്ലൊരു പിന്തുണയായി മാറാനുമാണ് എന്റെ ആഗ്രഹം. എന്റെ ലക്ഷ്യങ്ങളിലേക്കുള്ള യാത്രയിൽ, എല്ലായിപ്പോഴും സത്യസന്ധമായ, പരിശ്രമിയായ പ്രവർത്തനമാണ് എന്റെ പ്രതീക്ഷ. എനിക്ക് ഉയർന്ന സർഗ്ഗാത്മകതയും ശാന്തിയും നേടാനും, ഞങ്ങൾ സമാധാനപരമായ ജീവിതം നയിക്കാനും എന്നെ സഹായിക്കട്ടെ എന്നതിനാൽ ഞാൻ പ്രതീക്ഷിക്കുന്നു."
+  },
+  {
+    "objectID": "posts/യാത്ര/index.html",
+    "href": "posts/യാത്ര/index.html",
+    "title": "എന്റെ പ്രതീക്ഷകൾ",
+    "section": "",
+    "text": "എന്റെ പ്രതീക്ഷകൾ സജീവമായ, ആശാ നിറഞ്ഞ, സഫലമായ ജീവിതം അനുസരിക്കുന്നു. എന്റെ വിദ്യാഭ്യാസത്തിലൂടെ, എനിക്ക് ലോകത്ത് ശ്രദ്ധേയമായ സംഭാവനകൾ ചെയ്യാൻ സാധിക്കും എന്ന പ്രതീക്ഷയുണ്ട്. ഞാൻ ഒരു മികച്ച പ്രൊഫഷണൽ ആയി വളർന്നുകൊണ്ടിരിക്കാനും, എന്റെ കുടുംബത്തിന്, സമൂഹത്തിന് നല്ലൊരു പിന്തുണയായി മാറാനുമാണ് എന്റെ ആഗ്രഹം. എന്റെ ലക്ഷ്യങ്ങളിലേക്കുള്ള യാത്രയിൽ, എല്ലായിപ്പോഴും സത്യസന്ധമായ, പരിശ്രമിയായ പ്രവർത്തനമാണ് എന്റെ പ്രതീക്ഷ. എനിക്ക് ഉയർന്ന സർഗ്ഗാത്മകതയും ശാന്തിയും നേടാനും, ഞങ്ങൾ സമാധാനപരമായ ജീവിതം നയിക്കാനും എന്നെ സഹായിക്കട്ടെ എന്നതിനാൽ ഞാൻ പ്രതീക്ഷിക്കുന്നു."
+  }
+]
